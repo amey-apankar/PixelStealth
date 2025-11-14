@@ -10,7 +10,7 @@
   <img alt="Language" src="https://img.shields.io/badge/language-C%2B%2B-00599C.svg?style=for-the-badge">
   <img alt="Dependencies" src="https://img.shields.io/badge/dependencies-stb_image-blue.svg?style=for-the-badge">
   <img alt="Platform" src="https://img.shields.io/badge/platform-Windows_|_Linux_|_macOS-lightgrey.svg?style=for-the-badge">
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-green.svg?style=for-the-badge">
+  
 </p>
 
 ---
