@@ -56,7 +56,7 @@ The project was developed for **Code::Blocks** and uses the header-only `stb_ima
 
 ---
 
-## ✨ Features
+## ✨ Features ✨
 
 * ✅ **Hide Text:** Embeds any string of text into a cover PNG image.
 * ✅ **Extract Text:** Recovers the hidden message from a stego-image.
